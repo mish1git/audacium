@@ -1,6 +1,6 @@
 [![Audacium](https://user-images.githubusercontent.com/49339966/124761631-468df780-df32-11eb-84a6-5d17a9717fc2.png)](https://audacium.seb1g.live)
 <br/>
-<p>Made by mish1</p>
+<p alígn="center">Made by mish1</p>
 =========================
 
 ## Searching for contributors!
